@@ -1,0 +1,5 @@
+C:\Users\deepikasingh\Documents\Visual Studio 2013\Projects\PassportValidationService\PassportValidationService\PassportValidationLib\obj\Debug\PassportValidationLib.csprojResolveAssemblyReference.cache
+C:\Users\deepikasingh\Documents\Visual Studio 2013\Projects\PassportValidationService\PassportValidationService\PassportValidationLib\bin\Debug\PassportValidationLib.dll
+C:\Users\deepikasingh\Documents\Visual Studio 2013\Projects\PassportValidationService\PassportValidationService\PassportValidationLib\bin\Debug\PassportValidationLib.pdb
+C:\Users\deepikasingh\Documents\Visual Studio 2013\Projects\PassportValidationService\PassportValidationService\PassportValidationLib\obj\Debug\PassportValidationLib.dll
+C:\Users\deepikasingh\Documents\Visual Studio 2013\Projects\PassportValidationService\PassportValidationService\PassportValidationLib\obj\Debug\PassportValidationLib.pdb
